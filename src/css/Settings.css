@@ -1,0 +1,31 @@
+/* container */
+.settings {
+  width: 270px;
+  height: 200px;
+  background-color: #e3f2fd;
+  border-radius: 0 0 10px 10px;
+}
+
+.settings ul{
+  margin-right: 5px;
+  padding: 0 0 4px 4px;
+  font-size:large;
+  list-style: none;
+}
+
+/* list element */
+li {
+  box-shadow: 2px 2px 2px 2px rgba(0, 0, 0, 0.5);
+  padding: 2px;
+  margin: 5px;
+  
+  border-radius: 5px;
+}
+
+/*Adding margins to fit eveything perfectly otherwise things gets overflow*/
+h2 {
+  margin: -5px;
+  margin-left: 6px;
+  margin-top: 7px;
+  text-align: center;
+}

@@ -1,0 +1,31 @@
+/* CSS for display */
+.display {
+  background-size: cover;
+  background-position: center;
+  width: 270px;
+  height: 210px;
+  margin-top: 25px;
+  border: 1.5px solid black;
+  border-radius: 10px;
+  padding: 3px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.blank-div {
+  width: 270px;
+  height: 200px;
+  background-color: #e3f2fd;
+  border-radius: 0 0 10px 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+/* Css for empty text */
+.empty-text {
+  margin: 5px;
+  text-align: center;
+}
