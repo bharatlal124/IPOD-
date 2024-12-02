@@ -3,7 +3,7 @@
 
 Welcome to the **iPod React.js** project! This web application emulates the classic iPod user interface using React.js. With this app, you can navigate through a menu of options, access different screens, and even explore submenus within certain options.
 
-![image](https://github.com/DeepakkPatil/Ipod/assets/108725514/0b0dcd31-3c03-43a3-a1b7-5973a39d2baf)
+![Screenshot 2024-12-02 113013](https://github.com/user-attachments/assets/c6066d2e-74ec-49f1-b0ed-1bb5d2de24f4)
 
 
 ## Instructions
