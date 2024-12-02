@@ -29,8 +29,8 @@ import song8Img from "../static/images/The Weeknd.png";
 import song9Img from "../static/images/Sorry.jpeg";
 
 // Import wallpapers
-import Wallpaper1 from "../static/images/Wallpaper-1.jpg";
-import Wallpaper2 from "../static/images/Wallpaper-2.jpg";
+import Wallpaper2 from "../static/images/Wallpaper-1.jpg";
+import Wallpaper1 from "../static/images/Wallpaper-2.jpg";
 import Wallpaper3 from "../static/images/Wallpaper-3.jpg";
 
 class App extends React.Component {
